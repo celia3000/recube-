@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672653245526",
+    "firebase_url": "https://recube-37bce.firebaseio.com",
+    "project_id": "recube-37bce",
+    "storage_bucket": "recube-37bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672653245526:android:64f5fac07eb20c811d0ff7",
+        "android_client_info": {
+          "package_name": "com.example.meditation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672653245526-b4hq120f0npcnnmi8mdsvbm6v7a6f7g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0UjT4c4VTDIUV9SQx56FlwF2VPIgnYxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672653245526-b4hq120f0npcnnmi8mdsvbm6v7a6f7g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
