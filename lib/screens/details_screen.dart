@@ -83,7 +83,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
             decoration: BoxDecoration(
               color: kBlueLightColor,
               image: DecorationImage(
-                image: AssetImage("assets/images/meditation_bg.png"),
+                image: AssetImage("assets/images/sitstand.png"),
                 fit: BoxFit.fitWidth,
               ),
             ),
@@ -99,7 +99,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
                       height: size.height * 0.05,
                     ),
                     Text(
-                      "Meditation",
+                      "Sit to stand",
                       style: Theme.of(context)
                           .textTheme
                           .headline4
@@ -114,7 +114,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
                     SizedBox(
                       width: size.width * .6, // it just take 60% of total width
                       child: Text(
-                        "Live happier and healthier by learning the fundamentals of meditation and mindfulness",
+                        "GOOD morning. Repetition makes progress ",
                       ),
                     ),
                     SizedBox(
